@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alnys
 - 👀 I’m interested in Learning new things and being challenged
 - 🌱 I’m currently learning Front End Dev.
-- 💞️ I’m looking to collaborate on Learn how to code.
+- 💞️ I’m looking to collaborate on Learning how to code.
 - 📫 How to reach me via email.
 
 <!---
